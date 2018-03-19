@@ -8,7 +8,7 @@ An angular project
 
 > 效果
 
-![Image text](https://raw.githubusercontent.com/chilliness/ngx-cnode/master/src/assets/demo.gif)
+![最终效果](/demo/demo.gif)
 
 > 注意事项
 
@@ -22,6 +22,8 @@ An angular project
 4、页面滚动使用better-scroll插件
 
 5、本地数据存储使用sessionStorage
+
+6、测试Access Token：cdede16e-538e-4827-871d-008f3bfa384d
 ```
 
 > 功能实现
